@@ -45,4 +45,20 @@ You can pull the latest production-ready image directly from Docker Hub. This en
 ---
 
 ## 📂 Project Highlights
-* **Automated Preprocessing:** The system handles missing values and categorical encoding (Label
+* **Automated Preprocessing:** The system handles missing values and categorical encoding (LabelEncoding) automatically.
+* **Production-Ready API:** Built with FastAPI, providing a high-performance REST API.
+* **Dockerized:** Guaranteed to run exactly the same way on any server, eliminating "it works on my machine" issues.
+
+---
+
+## 📈 Model Insights
+- **Algorithm:** Random Forest Classifier
+- **Preprocessing:** Handled the "3+" dependents string conversion and imputed missing numerical values with column means.
+- **Deployment:** Packaged using a lightweight Docker base image for faster deployment.
+
+---
+
+## 👤 Contact
+**Harshal Rao** 📍 *Location: Raipur / Bhilai, Chhattisgarh* 📞 **Phone:** +91 6266641454  
+🔗 **LinkedIn:** [Harshal Rao](https://linkedin.com/in/harshal-273744337)  
+🔗 **GitHub:** [HarshalVision12345](https://github.com/HarshalVision12345)
